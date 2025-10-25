@@ -9,7 +9,7 @@ Atualmente curso o **2º semestre de Sistemas de Informação** e trabalho com:
 ---
 
 ### 🚀 Tecnologias que utilizo
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,git,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,figma"/>
 
 ### 💡 Projetos em destaque
 - [🌎 Site do Grupo Glatz](https://grupoglatz.com.br)

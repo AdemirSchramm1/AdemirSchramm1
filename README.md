@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ademir Schramm
 
-<!--
-**AdemirSchramm1/AdemirSchramm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Front-End**, apaixonado por criar interfaces limpas, acessíveis e responsivas.  
+Atualmente curso o **2º semestre de Sistemas de Informação** e trabalho com:
 
-Here are some ideas to get you started:
+🧩 HTML semântico • CSS modular • JavaScript vanilla  
+🎨 Foco em UI/UX • Funcionalidade • Acessibilidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias que utilizo
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,git,figma" />
+
+### 💡 Projetos em destaque
+- [🌎 Site do Grupo Glatz](https://grupoglatz.com.br)
+- [🏡 Site JotaDev](https://jotadev.com.br/contato.html)
+- [📦 SupplyMais ERP](https://supplymais.com.br)
+
+---
+
+📫 **Contato:**  
+✉️ ademirjuniorschramm@gmail.com

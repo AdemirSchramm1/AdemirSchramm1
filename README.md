@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ademir Schramm
 
-Sou **Desenvolvedor Front-End**, apaixonado por criar interfaces limpas, acessíveis e responsivas.  
+Estou começando na área como **Desenvolvedor Front-End**, apaixonado por criar interfaces limpas, acessíveis e responsivas.  
 Atualmente curso o **2º semestre de Sistemas de Informação** e trabalho com:
 
 🧩 HTML semântico • CSS modular • JavaScript vanilla  
@@ -9,7 +9,7 @@ Atualmente curso o **2º semestre de Sistemas de Informação** e trabalho com:
 ---
 
 ### 🚀 Tecnologias que utilizo
-<img src="https://skillicons.dev/icons?i=html,css,js,git,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git"/>
 
 ### 💡 Projetos em destaque
 - [🌎 Site do Grupo Glatz](https://grupoglatz.com.br)

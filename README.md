@@ -1,22 +1,16 @@
 # 👋 Olá, eu sou o Ademir Schramm
 
-Estou começando na área como **Desenvolvedor Front-End**, apaixonado por criar interfaces limpas, acessíveis e responsivas.  
-Atualmente curso o **2º semestre de Sistemas de Informação** e trabalho com:
+Atualmente curso o **3º semestre de Sistemas de Informação**
 
-🧩 HTML semântico • CSS modular • JavaScript vanilla  
-🎨 Foco em UI/UX • Funcionalidade • Acessibilidade
+### 🚀 Linguagens:
 
----
-
-### 🚀 Tecnologias que utilizo
-<img src="https://skillicons.dev/icons?i=html,css,js,git"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git"/>
 
 ### 💡 Projetos em destaque
-- [🌎 Site do Grupo Glatz](https://grupoglatz.com.br)
-- [🏡 Site JotaDev](https://jotadev.com.br/contato.html)
-- [📦 SupplyMais ERP](https://supplymais.com.br)
 
----
+* 🌎 Site do Grupo Glatz: https://grupoglatz.com.br
+* 🏡 Site JotaDev: https://jotadev.com.br/contato.html
+* 📦 SupplyMais ERP: https://supplymais.com.br
 
-📫 **Contato:**  
-✉️ ademirjuniorschramm@gmail.com
+📫 **Contato:**
+✉️ [ademirjuniorschramm@gmail.com](mailto:ademirjuniorschramm@gmail.com)

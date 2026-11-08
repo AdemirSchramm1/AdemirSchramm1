@@ -4,7 +4,7 @@ Atualmente curso o **3º semestre de Sistemas de Informação**
 
 ### 🚀 Linguagens:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git"/>
+<img src="https://skillicons.dev/icons?i=claudecode"/>
 
 ### 💡 Projetos em destaque
 
